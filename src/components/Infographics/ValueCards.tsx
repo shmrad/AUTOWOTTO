@@ -1,0 +1,1 @@
+// Add value cards infographic component
