@@ -3,7 +3,7 @@ export const vehicleBrands = {
     {
       id: 'mercedes',
       brand: 'Mercedes-Benz',
-      image: '/assets/Mercedes.png',
+      image: '/assets/Mercedez.png',
       models: ['Classe G', 'GLE', 'Classe C', 'Classe S', 'GLS'],
       description: 'Leader du luxe automobile allemand, Mercedes-Benz incarne l\'excellence en matière de design, de technologie et de performance.',
       category: 'Marques de Luxe'
